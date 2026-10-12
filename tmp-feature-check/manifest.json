@@ -1,0 +1,9 @@
+{
+  "id": "feature-check",
+  "name": "Feature Check",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.3",
+  "description": "Test",
+  "author": "Iben",
+  "isDesktopOnly": false
+}
