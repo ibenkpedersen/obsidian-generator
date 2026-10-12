@@ -2,3 +2,5 @@ node_modules/
 dist/
 plugins/
 .DS_Store
+
+tmp-feature-check/
